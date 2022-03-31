@@ -1,0 +1,3 @@
+Questions
+1. sudo systemctl status apache2
+2. sed -i 's/Mango/Apple/g' mig33/inner.folder/1.txt
